@@ -25,8 +25,8 @@
     },
       "ANTIDELETE": {
       "description": "Set true to see deleted messages.",
-      "value": "false",
-      "required": false
+      "value": "True",
+      "required": True
     },
     "WELCOME": {
       "description": "Put 'false' or 'true' to enable or disable WELCOME.",
@@ -40,8 +40,8 @@
     },
     "CHATBOT": {
       "description": "Set to true if you want your bot to autoreply messages.",
-      "value": "false",
-      "required": false
+      "value": "True",
+      "required": True
     },
     "AUTO_READ_MESSAGES": {
       "description": "Set to true if you want the bot to read all messages.",
